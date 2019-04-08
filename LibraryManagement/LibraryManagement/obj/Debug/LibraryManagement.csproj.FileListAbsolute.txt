@@ -1,0 +1,6 @@
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll.config
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Vishva Deliwala\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
